@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "ls1x_common.h": "c",
+        "ls1c102_ptimer.h": "c",
+        "ls1x_gpio.h": "c",
+        "ls1x.h": "c",
+        "ls1x_latimer.h": "c",
+        "ls1x_spi.h": "c",
+        "lcd.h": "c",
+        "pic.h": "c",
+        "test.h": "c",
+        "ls1x_uart.h": "c",
+        "config.h": "c",
+        "ls1x_wdg.h": "c",
+        "buffer.h": "c",
+        "cstdio": "c",
+        "ls1c102_i2c.h": "c",
+        "iic.h": "c",
+        "queue.h": "c"
+    }
+}
